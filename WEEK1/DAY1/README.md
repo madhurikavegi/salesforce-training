@@ -1,34 +1,64 @@
-Mandatory Submission
+# DAY1 - CRM Basics
 
-1. What problem does Salesforce solve?
-Salesforce solves the problem of managing customer data and business processes in one place.  It helps companies avoid manual work, scattered data, and poor customer communication by providing a single cloud system.
- 2. What is CRM?
-CRM stands for Customer Relationship Management.
-It is a system used by companies to:
+## 1. What is CRM?
+
+CRM (Customer Relationship Management) is a system or strategy used by companies to manage their interactions with customers.
+
+It helps businesses:
 - Store customer information
-- Track customer interactions
-- Improve customer relationships
-- Increase sales and service quality
- 3. What is an Object in Salesforce? Give one example.
-An Object is like a database table in Salesforce used to store data.
-Example:
-- Account object → stores company details  
-- Contact object → stores customer details  
-4. Difference between Salesforce Admin and Salesforce Developer
-Salesforce Admin	Salesforce Developer
-Works mainly with configuration	Works mainly with coding
-Uses clicks and tools	Uses Apex, Lightning, APIs
-Manages users and permissions	Builds custom applications
-Creates reports and dashboards	Develops custom features
-Automates workflows using tools	Writes custom automation code
-Handles security settings	Integrates Salesforce with other systems
+- Track sales
+- Improve communication
+- Build strong relationships with customers
 
-5.Real-World Application: Hospital Management System
-A Hospital Management System can be built using Salesforce to manage hospital activities in one place.
-It helps in:
-Managing patient details 
-Booking doctor appointments 
-Storing medical history 
-Handling billing and payments
+---
 
+## 2. Why Companies Use Salesforce
 
+Companies use Salesforce because it is a powerful CRM platform that helps them:
+
+- Store and manage customer data in one place
+- Track sales and business opportunities
+- Improve customer service and communication
+- Automate business tasks like emails and follow-ups
+- Generate reports and business insights
+- Increase productivity and sales growth
+
+---
+
+## 3. Explain: Account, Contact, Opportunity
+
+### Account
+- A company or organization you do business with
+- Example: Hospital, college, or company
+
+### Contact
+- A person linked to an account
+- Example: Patient, student, or customer details
+
+### Opportunity
+- A possible sales deal or service process
+- Example: Treatment case, admission process, or purchase discussion
+
+---
+
+## 4. Real-World Mapping (Hospital Example)
+
+- Account = Hospital
+- Contact = Patient / Guardian
+- Lead = Appointment Request / Inquiry
+- Opportunity = Treatment Process or Diagnosis in Progress
+
+---
+
+## Learnings
+
+- Understood CRM basics
+- Learned Salesforce workflow
+- Learned Accounts, Contacts, and Opportunities
+- Understood real-world CRM examples
+
+---
+
+## Screenshots
+
+Trailhead screenshots and practice files uploaded in this folder.
